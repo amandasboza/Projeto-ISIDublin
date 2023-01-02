@@ -7,7 +7,7 @@
 - [x] Linguagem de marcação no geral;
 - [x] Divs;
 - [x] CSS, style e suas utilizações;
-- [x] Básico/iniciante em JS
+- [x] Básico/iniciante em JS;
 
 ## 💻 Linguagens usadas até então:
 
