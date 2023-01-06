@@ -11,7 +11,7 @@
 }
 
 .center {
-    width: 1280px;
+    width: 800px;
     margin: 0 auto;
     
 }
@@ -130,4 +130,54 @@
 
 .title {
     margin-left: 14px;
+}
+
+#contactForm button {
+    background-color: #1A4053;
+    text-transform:uppercase;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    border: 0;
+    margin-top: 15px;
+    padding: 8px;
+    width: 42%;
+}
+
+#contactForm {
+    text-align: center;
+}
+
+.colours {
+    font-family:'Barlow 400', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    margin: 25px 15px 15px 15px;
+    color: #ccc;
+}
+
+.boxInformation {
+    float: left;
+    width: 900px;
+    height: 400px;
+    background-color: #fcd6c963;
+    margin-top: 190px;
+    text-align: left;
+    padding: 30px;
+    font-family:'Barlow 400', sans-serif;
+    margin-left: 180px;
+}
+
+.boxInformation ul {
+    list-style-position: inside;
+}
+
+.boxInformation ul li {
+    color: white;
+    margin-top: 35px;
+    text-align: justify;
+    font-weight: 500;
 }
