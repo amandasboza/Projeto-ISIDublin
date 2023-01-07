@@ -181,3 +181,74 @@
     text-align: justify;
     font-weight: 500;
 }
+
+.container2 {
+    padding: 100px 500px;
+    background-color:#1A4053;
+    font-family:'Barlow 400', sans-serif;
+    color: white;
+    text-align: justify;
+}
+
+.container2 h2 {
+    text-transform: uppercase;
+    font-family: 'Barlow', sans-serif;
+    padding-bottom: 25px;
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+.sectionB h1 { 
+    font-family: 'Barlow', sans-serif;
+    letter-spacing: 5px;
+    font-size: 40px;
+    text-align: center ;
+    color:#1A4053;
+    margin: auto auto 100px;
+}
+
+.sectionB h2 {
+    font-family:'Barlow 400', sans-serif;
+    font-size: 18px;
+    text-align: center ;
+    text-transform: uppercase;
+    color:#fdb8a1;
+    margin: 120px auto 15px;
+}
+
+.containerSection {
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.photoArt {
+    text-align: center;
+}
+
+.containerSection h2 {
+    font-family:'Barlow 400', sans-serif;
+    font-size: 18px;
+    text-align: center ;
+    text-transform: uppercase;
+    color:#fdb8a1;
+    margin: 15px auto 5px;
+}
+
+.sectionC h3 { 
+    font-family: 'Barlow', sans-serif;
+    letter-spacing: 5px;
+    font-size: 10px;
+    text-align: center ;
+    color:#1A4053;
+    margin: auto auto 120px;
+}
+
+.footer {
+    background-color: #1A4053;
+    font-family:'Barlow 400', sans-serif;
+    height: 150px;
+    color: white;
+    text-align: center;
+    padding-top: 45px;
+    font-size: 15px;
+}
